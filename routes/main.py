@@ -5,5 +5,9 @@ routes = {
 
     "/goodbye" : {
         "template" : "goodbye.html"
+    },
+    "/business": {
+        "template": "business.json"
+
     }
 }
